@@ -39,9 +39,12 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![] <img src="http://g.recordit.co/Rxd44Rnn3a.gif"><br> Starting and stopping the game.
-![] <img src="http://g.recordit.co/9BLDKeeNvk.gif"><br> Starting and losing the game.
-![] <img src="http://g.recordit.co/ODa2F1r9e1.gif"><br> Starting and winning the game.
+Starting and stopping the game.
+![] <img src="http://g.recordit.co/Rxd44Rnn3a.gif"><br> 
+Starting and losing the game.
+![] <img src="http://g.recordit.co/9BLDKeeNvk.gif"><br> 
+Starting and winning the game.
+![] <img src="http://g.recordit.co/ODa2F1r9e1.gif"><br> 
 
 
 ## Reflection Questions
